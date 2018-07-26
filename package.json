@@ -1,0 +1,17 @@
+{
+    "name": "pxt-soroban",
+    "version": "0.0.0",
+    "description": "そろばん",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
