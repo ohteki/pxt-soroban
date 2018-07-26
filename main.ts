@@ -1,4 +1,4 @@
-//% weight=70 icon="\uf1ec" color=#00bb7 block="そろばん"
+//% weight=70 icon="\uf1ec" color=#00bbd7 block="そろばん"
 namespace soroban {
 		//% blockId=show_strings block="数を表示 %v"
     export function showNumber(text: number = 0): void {
