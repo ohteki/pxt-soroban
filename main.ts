@@ -1,6 +1,6 @@
 //% weight=70 icon="\uf1ec" color=#00bbd7 block="soroban"
 namespace soroban {
-    //% blockId=show_number block="show a number %v"
+    //% blockId=show_number block="Show a number %num"
     export function showNumber(num: number = 0): void {
         let str = num.toString()
         for (let x = 0; x < 5; x++) {
