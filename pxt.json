@@ -1,6 +1,6 @@
 {
     "name": "pxt-soroban",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "soroban",
     "license": "MIT",
     "dependencies": {
